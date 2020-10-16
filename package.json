@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "The path to NGInx main folder:\r /usr/share/nginx/html",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "echo \"Error: No test specified\" && exit 1",
+    "start": "node server.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DiegoRRosales/personal_budget.git"

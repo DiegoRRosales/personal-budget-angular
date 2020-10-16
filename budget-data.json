@@ -1,21 +1,31 @@
 {
-    "title": [
-        "Eat out",
-        "Rent",
-        "Groceries",
-        "Shopping",
-        "Netflix",
-        "Savings",
-        "Car Insurance"
-    ],
-
-    "budget": [
-        30,
-        275,
-        75,
-        100,
-        15,
-        150,
-        250
-    ]
-}
+    "myBudget": [
+    {
+        "title": "Eat out",
+        "budget": 30
+    },
+    {
+        "title": "Rent",
+        "budget": 275
+    },
+    {
+        "title": "Groceries",
+        "budget": 75
+    },
+    {
+        "title": "Shopping",
+        "budget": 100
+    },
+    {
+        "title": "Netflix",
+        "budget": 15
+    },
+    {
+        "title": "Savings",
+        "budget": 150
+    },
+    {
+        "title": "Car insurance",
+        "budget": 250
+    }
+]}

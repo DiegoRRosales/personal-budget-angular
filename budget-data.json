@@ -1,0 +1,21 @@
+{
+    "title": [
+        "Eat out",
+        "Rent",
+        "Groceries",
+        "Shopping",
+        "Netflix",
+        "Savings",
+        "Car Insurance"
+    ],
+
+    "budget": [
+        30,
+        275,
+        75,
+        100,
+        15,
+        150,
+        250
+    ]
+}

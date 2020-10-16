@@ -3,7 +3,7 @@ const app = express();
 const port = 3000;
 
 app.use('/', express.static('public'));
-
+/*
 const budget = {
     myBudget: [
     {
@@ -19,14 +19,14 @@ const budget = {
         budget: 110
     },
   ]
-};
+};*/
 
 app.get('/hello', (req, res) => {
     res.send('Hello World!');
 });
 
 app.get('/budget', (req, res) => {
-    res.json(budget);
+    res.json(budget-data);
 });
 
 app.listen(port, () => {
